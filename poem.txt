@@ -1,0 +1,7 @@
+sky
+
+blue 
+red
+orange
+gold
+these are the colors of the sky
