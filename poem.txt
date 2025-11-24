@@ -1,8 +1,9 @@
 sky
-the blue sky
+the blue sky and the cloud
 blue 
 red
 orange
 gold
 these are the colors of the sky
 and the blue sky
+cloud
