@@ -4,5 +4,6 @@ blue
 red
 orange
 gold
+yellow
 these are the colors of the sky
 and the blue sky
